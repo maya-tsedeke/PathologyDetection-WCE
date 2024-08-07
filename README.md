@@ -4,14 +4,14 @@ Benchmarking and evaluating object detection models for pathology detection in W
 This repository contains the setup and configuration files for the evaluation of object detection models on the Kvasir-Capsule dataset, converted to MS COCO format. The models evaluated include SSD, EfficientDet, Faster RCNN, RetinaNet, YOLOv3, RTMDet-S, RTMDet-Tiny, RTMDet-Medium, and Soft Teacher.
 Below are some examples of detected images:
 
-### Detected Image 1
-![Detected Image 1](results/2fc3db471f9d44c0_2536_jpg.rf.38397c8d44d998268e4a8a7d40fe5c8b.jpg)
+### Detected Image from video
 
-### Detected Image 2
-![Detected Image 2](results/2fc3db471f9d44c0_2562_jpg.rf.343b60de4af0fa016ecf621e152979e2.jpg)
+<div align="center">
+  <img src="results/2fc3db471f9d44c0_2562_jpg.rf.343b60de4af0fa016ecf621e152979e2.jpg" alt="SSD Detected Image 1" width="300"/>
+  <img src="results/2fc3db471f9d44c0_2536_jpg.rf.38397c8d44d998268e4a8a7d40fe5c8b.jpg" alt="SSD Detected Image 2" width="300"/>
+  <img src="3ada4222967f421d_1818_jpg.rf.e4d98172a497ec818112d1811ac36197.jpg" alt="SSD Detected Image 3" width="300"/>
+</div>
 
-### Detected Image 3
-![Detected Image 3](3ada4222967f421d_1818_jpg.rf.e4d98172a497ec818112d1811ac36197.jpg)
 ## Repository Structure
 
 - `configs/`: Contains the configuration files for each model with modified parameters (input size, batch size, epoch size, learning rate, and class names).
