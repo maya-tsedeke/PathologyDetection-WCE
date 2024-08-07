@@ -7,9 +7,13 @@ Below are some examples of detected images:
 ### Detected Image from video
 
 <div align="center">
-  <img src="results/2fc3db471f9d44c0_2562_jpg.rf.343b60de4af0fa016ecf621e152979e2.jpg" alt="SSD Detected Image 1" width="300"/>
-  <img src="results/2fc3db471f9d44c0_2536_jpg.rf.38397c8d44d998268e4a8a7d40fe5c8b.jpg" alt="SSD Detected Image 2" width="300"/>
-  <img src="results/3ada4222967f421d_1818_jpg.rf.e4d98172a497ec818112d1811ac36197.jpg" alt="SSD Detected Image 3" width="300"/>
+  <img src="results/test/test_from_normal_video.jpg" alt="SSD Detected Image 1" width="300"/>
+</div>
+<div align="center">
+  <img src="results/test/test_on_blood_fresh.jpg" alt="SSD Detected Image 1" width="300"/>
+</div>
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/shorts/yOyipdsG7_c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Repository Structure
