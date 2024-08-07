@@ -7,14 +7,17 @@ Below are some examples of detected images:
 ### Detected Image from video
 
 <div align="center">
-  <img src="results/test/test_from_normal_video.jpg" alt="SSD Detected Image 1" width="300"/>
+  <img src="results/test/test_from_normal_video.jpg" alt="SSD Detected Image 1"/>
 </div>
 <div align="center">
-  <img src="results/test/test_on_blood_fresh.jpg" alt="SSD Detected Image 1" width="300"/>
+  <img src="results/test/test_on_blood_fresh.jpg" alt="SSD Detected Image 1">
 </div>
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/shorts/yOyipdsG7_c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+## Detected Video
+
+Below is an animated GIF showcasing the detected video results:
+
+![Detected Video](results/test/result.gif)
+
 
 ## Repository Structure
 
