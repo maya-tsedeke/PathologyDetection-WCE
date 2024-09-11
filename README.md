@@ -30,7 +30,7 @@ Below is an animated GIF showcasing the detected video results:
 ## Getting Started
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/PathologyDetection-WCE.git
+    git clone https://github.com/maya-tsedeke/PathologyDetection-WCE.git
     cd PathologyDetection-WCE
 2. Follow the MMdetection installation instructions:
 Please follow the official MMdetection [installation guide](https://github.com/open-mmlab/mmdetection/blob/master/docs/en/get_started.md#installation) to set up MMdetection. Ensure that you have all the dependencies installed and the environment properly configured.
